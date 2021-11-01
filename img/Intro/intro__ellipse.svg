@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="27" height="46" viewBox="0 0 27 46">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: none;
+        stroke: #22222b;
+        stroke-width: 1px;
+        fill-rule: evenodd;
+      }
+    </style>
+  </defs>
+  <path id="Ellipse_копия" data-name="Ellipse копия" class="cls-1" d="M958,870a13,13,0,0,1,13,13v19a13,13,0,0,1-26,0V883A13,13,0,0,1,958,870Zm0,23a2,2,0,1,1-2,2A2,2,0,0,1,958,893Zm0-13a3,3,0,1,1-3,3A3,3,0,0,1,958,880Z" transform="translate(-944.5 -869.5)"/>
+</svg>

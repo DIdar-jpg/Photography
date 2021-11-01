@@ -1,0 +1,7 @@
+Fonts of "Home" landing  page are :
+Roboto light,
+italic,
+medium,
+regular
+
+FontAwsome
